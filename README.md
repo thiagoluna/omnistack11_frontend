@@ -12,3 +12,10 @@ Developed with React that consume APIs through the backend's endpoints.
 - Node.js - Backend API
 - React - Frontend web
 - SQLite - Database
+
+## Test
+Frontend - https://omnistack11-frontend.herokuapp.com/  
+
+Backend Endpoits:  
+- List all ONGs - https://omnisatck11-backend.herokuapp.com/ongs  
+- List all incidents - https://omnisatck11-backend.herokuapp.com/incidents
